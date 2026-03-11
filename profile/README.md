@@ -1,7 +1,6 @@
 EnlivenLuanti maintains some excellent orphan mods for building great games with Luanti!
 
-* Click [Repositories](https://github.com/orgs/EnlivenLuanti/repositories) to view all.
-* If there is a link with updated code (not an orphan), please post an issue on the repo.
+* If there is a link with updated code (not an orphan), please post an issue at one of the [Repositories](https://github.com/orgs/EnlivenLuanti/repositories) above.
 
 Enliven contains community-supported mods as well. See [minetest.io](https://minetest.io) or:
 
